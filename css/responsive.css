@@ -3,6 +3,7 @@
     .mobile-img{
         position: static;
         transform: rotate(0);
+        text-align: center;
     }
     
     #title h1{
