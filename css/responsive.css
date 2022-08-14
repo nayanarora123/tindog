@@ -3,13 +3,8 @@
     .mobile-img{
         position: static;
         transform: rotate(0);
-        text-align: center;
     }
-    
-    #title h1{
-       text-align: center;
-    }
-    
+  
    #title .container-fluid{
        text-align: center;
     }
