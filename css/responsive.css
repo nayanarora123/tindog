@@ -10,11 +10,8 @@
        text-align: center;
     }
     
-    #title img{
+   #title .container-fluid{
        text-align: center;
     }
     
-    #title btn{
-       text-align: center;
-    }
 }
