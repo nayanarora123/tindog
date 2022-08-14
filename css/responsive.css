@@ -1,16 +1,19 @@
-@media (max-width: 1028px) {
+@media screen and (max-width: 1028px) {
 
     .mobile-img{
         position: static;
         transform: rotate(0);
     }
-
-    #title{
-        text-align: center;
+    
+    #title h1{
+       text-align: center;
     }
     
-    .navbar{
-        font-size: 1.5rem;
+    #title img{
+       text-align: center;
     }
     
+    #title btn{
+       text-align: center;
+    }
 }
